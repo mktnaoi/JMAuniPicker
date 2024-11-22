@@ -21,7 +21,6 @@ pip install torchinfo
 
 ## References
 
+- The paper detailing these released models is published from https://doi.org/10.1186/s40623-024-02091-8.
 - Zhu and Beroza (2019), doi: 10.1093/gji/ggy423
 - Woollman et al. (2022), doi: 10.1785/ 0220210324
-- The paper detailing these released models is currently under peer review for an academic journal.
-- preprint: https://doi.org/10.21203/rs.3.rs-4464239/v1
